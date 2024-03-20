@@ -18,6 +18,7 @@ https://arxiv.org/abs/2403.12962
 https://www.mmlab-ntu.com/project/fresco/
 
 ### 🖼 Output
+![Screenshot 2024-03-20 125638](https://github.com/camenduru/FRESCO-jupyter/assets/54370274/232467a8-cde3-442f-947a-970eda1bf09a)
 
 ### 🏢 Sponsor
 https://modelslab.com
