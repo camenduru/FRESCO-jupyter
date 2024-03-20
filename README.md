@@ -27,6 +27,7 @@ before ebsynth
 https://github.com/camenduru/FRESCO-jupyter/assets/54370274/e027511b-1eec-4728-8f53-3983dad6897d
 
 after ebsynth
+
 https://github.com/camenduru/FRESCO-jupyter/assets/54370274/e7f90248-90d4-4bef-958f-ed8147924a29
 
 ### 🏢 Sponsor
