@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/FRESCO-jupyter/blob/main/VideoMamba_jupyter.ipynb) | FRESCO_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/FRESCO-jupyter/blob/main/FRESCO_jupyter.ipynb) | FRESCO_jupyter
 
 ### 🧬 Code
 https://github.com/williamyang1991/FRESCO
